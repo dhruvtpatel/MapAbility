@@ -74,7 +74,7 @@ export default {
       mymap: null,
       currentNodeList: JSON.parse(window.localStorage.getItem("edges")) || {},
       currentEdgeList: JSON.parse(window.localStorage.getItem("nodes")) || {},
-      locationSearch: "Ecole des Mines de Saint-Etienne",
+      locationSearch: "New York City",
       currentColor: { color: "#D9042B", value: 2 },
       savedEdges: JSON.parse(window.localStorage.getItem("savedEdges")) || {},
       defaultColor: "#3388ff",
