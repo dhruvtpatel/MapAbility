@@ -8,9 +8,10 @@ To use MapAbility, simply enter a location into the search bar. The application 
 
 To rate a location, simply click on the "Rate" button next to the location. The rating system includes three options:
 
-Fully Accessible: The location is fully accessible to individuals with disabilities.
-Semi Accessible: The location is partially accessible to individuals with disabilities.
-Inaccessible: The location is not accessible to individuals with disabilities.
+- Fully Accessible: The location is fully accessible to individuals with disabilities.
+- Semi Accessible: The location is partially accessible to individuals with disabilities.
+- Inaccessible: The location is not accessible to individuals with disabilities.
+
 Users can also leave comments or additional information about the location if they choose.
 
 Once a rating is submitted, it will be added to the database and displayed on the map for other users to see.
