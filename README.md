@@ -16,6 +16,8 @@ Users can also leave comments or additional information about the location if th
 
 Once a rating is submitted, it will be added to the database and displayed on the map for other users to see.
 
+<img width="2240" alt="Screenshot 2023-03-27 at 1 58 33 PM" src="https://user-images.githubusercontent.com/81060486/228040124-2e4a4c87-3dd2-492d-994a-898090ab61e5.png">
+
 ## Downloading Data
 Users can also download the data collected by MapAbility for further analysis. The data includes the location name, rating, and any additional comments or information provided by users. To download the data, simply click on the "Download Data" button on the main page.
 
