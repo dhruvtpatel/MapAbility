@@ -22,10 +22,10 @@ Once a rating is submitted, it will be added to the database and displayed on th
 Users can also download the data collected by MapAbility for further analysis. The data includes the location name, rating, and any additional comments or information provided by users. To download the data, simply click on the "Download Data" button on the main page.
 
 ### To-Do's
-Improve the user interface to make it more user-friendly and accessible.
-Expand the database to include more locations and areas.
-Incorporate a feature to allow users to add new locations to the database.
-Develop a mobile application version of MapAbility for increased accessibility.
+- Improve the user interface to make it more user-friendly and accessible.
+- Expand the database to include more locations and areas.
+- Incorporate a feature to allow users to add new locations to the database.
+- Develop a mobile application version of MapAbility for increased accessibility.
 
 #### Contributing
 MapAbility is an open-source project, and contributions are welcome. If you would like to contribute, please refer to our contributing guidelines for more information.
